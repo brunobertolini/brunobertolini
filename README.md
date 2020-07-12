@@ -1,7 +1,7 @@
 
 ### Opa, sou o [Bruno Bertolini!](http://brunobertolini.com) 👋
 
-<a href="http://codesandbox.io/brunobertolini" target="_blank">
+<a href="http://codesandbox.io/u/brunobertolini" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/codesandbox.svg" width="21px"  alt="Bruno Bertolini | Codesandbox" align="left" />
 </a>
 <a href="http://twitter.com/brunobertolini" target="_blank">
