@@ -37,7 +37,7 @@
 <br />
 <br />
 
-Olá, sou Bruno Bertolini, desenvolvedor de software com 15 anos de experiência, sempre focado em qualidade, arquitetura e boas práticas. Já desenvolvi todo tipo de projeto, para todo tipo de empresa, desde startups, até grandes empresas, como Kroton, Sebrae e Neoway. Atualmente sou Líder Técnico Mobile na [Juntos+](http://github.com/juntossomosmais).
+Olá, sou Bruno Bertolini, desenvolvedor de software com 15 anos de experiência, sempre focado em qualidade, arquitetura e boas práticas. Já desenvolvi todo tipo de projeto, para todo tipo de empresa, desde startups, até grandes empresas, como Kroton, Sebrae e Neoway. Atualmente sou Líder Técnico Mobile na [Juntos Somos Mais](http://github.com/juntossomosmais).
 
 Recentemente, criei a [Codar.me](http://codar.me), um projeto com foco em ajudar outros desenvolvedores a melhorarem suas habilidades, técnicas e não técnicas, para que consigam desenvolver software com qualidade!
 
