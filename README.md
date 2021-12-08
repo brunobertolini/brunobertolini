@@ -37,9 +37,9 @@
 <br />
 <br />
 
-Olá, sou Bruno Bertolini, desenvolvedor de software com 15 anos de experiência, sempre focado em qualidade, arquitetura e boas práticas. Já desenvolvi todo tipo de projeto, para todo tipo de empresa, desde startups, até grandes empresas, como Kroton, Sebrae e Neoway. Atualmente sou Líder Técnico na [Setta](http://setta.co).
+Olá, sou Bruno Bertolini, desenvolvedor de software desde 2006, sempre focado em qualidade, arquitetura e boas práticas. Já desenvolvi todo tipo de projeto, para todo tipo de empresa, desde startups, até grandes empresas, como Kroton, Sebrae e Neoway.
 
-Recentemente, criei a [Codar.me](http://codar.me), um projeto com foco em ajudar outros desenvolvedores a melhorarem suas habilidades, técnicas e não técnicas, para que consigam desenvolver software com qualidade!
+Em 2019 criei a [Codar.me](http://codar.me), um projeto com foco em ajudar outros desenvolvedores a melhorarem suas habilidades, técnicas e não técnicas, para que consigam desenvolver software com qualidade, e se tornem desenvolvedores desejados pelo mercado.
 
 Então, te convido a conhecer esse projeto e [me enviar uma mensagem](https://www.instagram.com/codar.me/), vai ser um prazer te ajudar!
 
