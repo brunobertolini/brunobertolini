@@ -1,7 +1,16 @@
-## Hello there! 👋
+# Hey, I'm Bruno 👋
 
-I've been a Web Developer since 2006, and I've worked as a front-end, back-end, mobile, full stack and tech leader in several startups and companies of all sizes.
+I turn complexity into working products.
 
-**My current core stack is based on the JavaScript** ecosystem, with NodeJS, KoaJS, Prisma, React, React Native, TailwindCSS, NextJS and Vercel, but I have a lot of experience with AWS services, Docker, CI/CD in general, serverless and some other cool stuff.
+20+ years shipping software. I cut scope, shrink teams, and deliver fast. At Setta, I shipped an MVP in 2 months with 1 dev — what the product + tech team couldn't do in 6. At Juntos Somos Mais, I delivered 2 mobile apps with 2 devs in 15 days.
+Currently building products with Next.js, React, Node.js, TypeScript, Prisma, and AI SDK.
+Through Codar.me, I've helped 70k+ developers learn to build real software.
 
-Since 2019, I've been **constantly creating content** in Portuguese, on [Instagram](https://codar.me/instagram) and [Youtube](https://codar.me/youtube) through [Codar.me](https://codar.me), a company that I create with my wife to teach developers how to develop real software. In total, we've helped over 70k developers and counting!
+Let's talk
+
+🌐 [brunobertolini.com](https://brunobertolini.com)
+💼 [LinkedIn](https://www.linkedin.com/in/brunobertolini/)
+📸 [Instagram](https://www.instagram.com/codar.me)
+✉️ bruno@codar.me
+
+Florianópolis, Brazil • Open to remote opportunities
