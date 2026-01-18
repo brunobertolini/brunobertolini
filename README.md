@@ -6,11 +6,11 @@ I turn complexity into working products.
 Currently building products with Next.js, React, Node.js, TypeScript, Prisma, and AI SDK.
 Through Codar.me, I've helped 70k+ developers learn to build real software.
 
-Let's talk
+### Let's talk
 
-🌐 [brunobertolini.com](https://brunobertolini.com)
-💼 [LinkedIn](https://www.linkedin.com/in/brunobertolini/)
-📸 [Instagram](https://www.instagram.com/codar.me)
-✉️ bruno@codar.me
+🌐 [brunobertolini.com](https://brunobertolini.com) <br />
+💼 [LinkedIn](https://www.linkedin.com/in/brunobertolini/)  <br />
+📸 [Instagram](https://www.instagram.com/codar.me) <br />
+✉️ bruno@codar.me <br />
 
 Florianópolis, Brazil • Open to remote opportunities
